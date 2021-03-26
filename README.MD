@@ -1,0 +1,4 @@
+# ShortUrls
+## LICENSE
+
+MIT
